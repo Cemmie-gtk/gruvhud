@@ -393,7 +393,7 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"xpos"						"r638"
-		"ypos"						"255"
+		"ypos"						"355"
 		"wide"						"628"
 		"tall"						"468"
 
@@ -411,8 +411,8 @@
 		"IconColor"					"255 255 255 255"
 		"LocalPlayerColor"			"255 255 255 255"
 
-		"BaseBackgroundColor"		"000 000 000 70"
-		"LocalBackgroundColor"		"000 000 000 90"
+		"BaseBackgroundColor"		"000 000 000 90"
+		"LocalBackgroundColor"		"000 000 000 140"
 	}
 	"HudVehicle"
 	{
