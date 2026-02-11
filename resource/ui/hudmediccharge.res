@@ -8,7 +8,7 @@
 		"ypos"										"c90"
 		"zpos"										"0"
 		"wide"										"2"
-		"tall"										"40"
+		"tall"										"5"
 		"visible"									"0"
 		"enabled"									"1"
 	}

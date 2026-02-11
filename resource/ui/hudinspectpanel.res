@@ -5,7 +5,7 @@
 		"ControlName"								"CItemModelPanel"
 		"fieldName"									"ItemPanel"
 		"xpos"										"0"
-		"ypos"										"-10"
+		"ypos"										"-4"
 		"zpos"										"10"
 		"wide"										"190"
 		"tall"										"100"
@@ -25,7 +25,7 @@
 		"text_center"								"1"
 
 		"max_text_height"							"100"
-		"padding_height"							"10"
+		"padding_height"							"15"
 		"resize_to_text"							"1"
 		"text_forcesize"							"2"
 
@@ -41,7 +41,7 @@
 			"fieldName"								"ItemLabel"
 			"font"									"Default"
 			"xpos"									"10"
-			"ypos"									"3"
+			"ypos"									"4"
 			"zpos"									"1"
 			"wide"									"270"
 			"tall"									"9"

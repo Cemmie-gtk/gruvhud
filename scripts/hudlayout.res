@@ -16,7 +16,7 @@
 		"visible"									"1"
 		"enabled"									"1"
 		"xpos"										"-110"
-		"ypos"										"-80"
+		"ypos"										"-80.5"
 		"wide"										"f0"
 		"tall"										"f0"
 	}
@@ -59,8 +59,8 @@
 		"fieldName"									"HudMedicCharge"
 		"visible"									"1"
 		"enabled"									"1"
-		"xpos"										"-110"
-		"ypos"										"-80"
+		"xpos"										"cs-2.4"
+		"ypos"										"r200"
 		"wide"										"f0"
 		"tall"										"f0"
 	}
@@ -335,12 +335,12 @@
 		"fieldName"									"HudDamageIndicator"
 		"visible"									"1"
 		"enabled"									"1"
-		"MinimumWidth"								"20"
-		"MaximumWidth"								"20"
+		"MinimumWidth"								"7"
+		"MaximumWidth"								"7"
 		"StartRadius"								"80"
-		"EndRadius"									"80"
-		"MinimumHeight"								"20"
-		"MaximumHeight"								"20"
+		"EndRadius"									"20"
+		"MinimumHeight"								"7"
+		"MaximumHeight"								"7"
 		"MinimumTime"								"1"
 	}
 	"HudCommentary"
@@ -393,15 +393,15 @@
 		"visible"					"1"
 		"enabled"					"1"
 		"xpos"						"r638"
-		"ypos"						"355"
-		"wide"						"628"
-		"tall"						"468"
+		"ypos"						"66"
+		"wide"						"600"
+		"tall"						"600"
 
-		"MaxDeathNotices"			"4"
-		"IconScale"					"0"
-		"LineHeight"				"11"
-		"LineSpacing"				"-1"
-		"CornerRadius"				"2"
+		"MaxDeathNotices"			"5"
+		"IconScale"					"0.35"
+		"LineHeight"				"16"
+		"LineSpacing"				"0.5"
+		"CornerRadius"				"0"
 		"RightJustify"				"0"
 		
 		"TextFont"					"ScoreboardSmallest"
@@ -411,8 +411,8 @@
 		"IconColor"					"255 255 255 255"
 		"LocalPlayerColor"			"255 255 255 255"
 
-		"BaseBackgroundColor"		"000 000 000 90"
-		"LocalBackgroundColor"		"000 000 000 140"
+		"BaseBackgroundColor"		"0 0 0 90"
+		"LocalBackgroundColor"		"0 0 0 150"
 	}
 	"HudVehicle"
 	{
@@ -582,6 +582,10 @@
 		"enabled"									"1"
 		"wide"										"640"
 		"tall"										"f0"
+                "pin_to_sibling"                                                                "HudCrosshair"
+                "pin_corner_to_sibling"                                                         "PIN_TOPLEFT"
+                "pin_to_sibling_corner"                                                         "PIN_TOPRIGHT"
+               
 	}
 	"HudScopeCharge"
 	{
@@ -1052,7 +1056,7 @@
 		"visible"									"0"
 		"enabled"									"1"
 		"xpos"										"r200"
-		"ypos"										"rs1"
+		"ypos"										"10"
 		"zpos"										"10"
 		"wide"										"190"
 		"tall"										"f0"

@@ -45,7 +45,7 @@
 		"ControlName"	"CTFTeamStatus"
 		"fieldName"		"TeamStatus"
 		"xpos"			"0"
-		"ypos"			"r15"
+		"ypos"			"r13"
 		"zpos"			"2"
 		"wide"			"f5"
 		"tall"			"70"
@@ -56,14 +56,14 @@
 		"max_size"	"12"
 
 		"6v6_gap"	"0"
-		"12v12_gap"	"-2.5"
+		"12v12_gap"	"9999"
 
 		"team1_grow_dir" "west"
-		"team1_base_x"	"c-90" 
+		"team1_base_x"	"c-50" 
 		"team1_max_expand"	"120"
 
 		"team2_grow_dir" "east"
-		"team2_base_x"	"c90"
+		"team2_base_x"	"c50"
 		"team2_max_expand"	"120"
 
 		"playerpanels_kv"
@@ -106,8 +106,8 @@
 				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"3"
-				"wide"			"11"
-				"tall"			"13"
+				"wide"			"8f"
+				"tall"			"8"
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"../vgui/class_portraits/class_scoutred"

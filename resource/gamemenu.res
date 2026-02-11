@@ -3,7 +3,7 @@
 	"GruvHUD"
 	{
 		"label"									"GruvHUD"
-		"command"								"engine con_enable 1; toggleconsole; echo GruvHUD by Cemmie based on LightHUD by Hypnotize"
+		"command"								"engine con_enable 1; toggleconsole; echo GruvHUD by Cemmie"
 	}
 	"Servers"
 	{
